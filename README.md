@@ -1,1 +1,2 @@
 # Time-Series-Analysis
+In time series analysis between two time series, One may be related to past lags of another series. Using the cross-correlation function helps identify lags of one time series and discover the prediction possibilities. matplotlib.pyplot.xcorr() function plots cross correlation between two array lists and it could be used for time-series analysis. In this project a code is developed to get the array out put of this function and write it to CSV file. 
